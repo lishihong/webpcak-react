@@ -1,9 +1,9 @@
 import React from 'react';
-import { DatePicker } from 'antd';
+import ShoppingList from '@components/ShoppingList'
 function App() {
   return (
     <div>
-      <DatePicker />
+      <ShoppingList />
     </div>
   );
 }
